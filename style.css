@@ -99,7 +99,7 @@ body{
 }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media (max-width: 375px) {
+@media (max-width: 620px) {
     .card{
         width: 350px;
         height: 780px;
