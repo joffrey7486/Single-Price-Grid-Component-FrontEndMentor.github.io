@@ -152,3 +152,8 @@ body{
         bottom: -1rem;
     }
 }
+@media (max-height: 400px) {
+    .main{
+        height: 180vh;
+    }
+}
